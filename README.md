@@ -6,6 +6,8 @@ Play the scene.
 
 Notice how as the camera moves, the sprites change, even though the animations on them are only changing some material properties.
 
+![](https://github.com/DeanIsseyegh/unity-6-sprite-render-issue/blob/main/Unity6SpriteIssue.gif)
+
 # Related Forum Posts
 
 Related forum bug reports I've found:
