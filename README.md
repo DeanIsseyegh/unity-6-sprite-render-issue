@@ -13,6 +13,7 @@ Notice how as the camera moves, the sprites change, even though the animations o
 Related forum bug reports I've found:
 
 https://discussions.unity.com/t/shader-bug-damage-flash-shader/1545591
+
 https://discussions.unity.com/t/animating-material-property-causes-issues-with-2d-renderer/1539929
 
 # Underlying issue
